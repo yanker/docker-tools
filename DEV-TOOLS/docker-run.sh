@@ -6,7 +6,7 @@ docker run -d \
     -p 8090:80 \
     corentinth/it-tools:latest
 
-open http://localhost:8090/it-tools/
+open http://localhost:8090
 
 # Example: ./docker-run.sh
 
